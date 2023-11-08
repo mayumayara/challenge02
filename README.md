@@ -8,8 +8,8 @@ From [the Explore programming scholl](https://www.rocketseat.com.br/explorer) by
 
 In this challenge, I had to recreate an application from a layout to practice what I learned in the class of Stage 02.
 
-## Project layout
+## Challenge layout
 
 ![layout_figma_challenge_02](https://github.com/mayumayara/images-in-redeme0/assets/120471137/3148e0cd-896a-43fa-b89f-4393f9795287)
 
-The project in Figma is at this [link](https://www.figma.com/file/bMKvx1a6aSbaNx53hBAKsu/Explorer---Projeto-02-(Copy)-(Copy)?type=design&node-id=1%3A5&t=QhOJNn8ao60B3osQ-1](https://www.figma.com/file/NjUrvjBmLcF7CtihVIK8RR/Explorer-(Copy)?type=design&node-id=0%3A1&mode=design&t=s4U74fqpjtP80Bmd-1)https://www.figma.com/file/NjUrvjBmLcF7CtihVIK8RR/Explorer-(Copy)?type=design&node-id=0%3A1&mode=design&t=s4U74fqpjtP80Bmd-1).
+The challenge in Figma is at this [link](https://www.figma.com/file/bMKvx1a6aSbaNx53hBAKsu/Explorer---Projeto-02-(Copy)-(Copy)?type=design&node-id=1%3A5&t=QhOJNn8ao60B3osQ-1](https://www.figma.com/file/NjUrvjBmLcF7CtihVIK8RR/Explorer-(Copy)?type=design&node-id=0%3A1&mode=design&t=s4U74fqpjtP80Bmd-1)https://www.figma.com/file/NjUrvjBmLcF7CtihVIK8RR/Explorer-(Copy)?type=design&node-id=0%3A1&mode=design&t=s4U74fqpjtP80Bmd-1).
